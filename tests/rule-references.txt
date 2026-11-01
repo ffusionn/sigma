@@ -3957,3 +3957,13 @@ https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/dsrm-
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/enable-psremoting?view=powershell-7.2
 https://bazaar.abuse.ch/sample/8c75f8e94486f5bbf461505823f5779f328c5b37f1387c18791e0c21f3fdd576/
 https://web.archive.org/web/20210512154016/https://github.com/AlsidOfficial/WSUSpendu/blob/master/WSUSpendu.ps1
+https://ss64.com/mac/hdiutil.html
+http://www.hexacorn.com/blog/2013/01/19/beyond-good-ol-run-key-part-3/
+https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-tsch/d1058a28-7e02-4948-8b8d-4a347fa64931
+https://www.proofpoint.com/us/blog/threat-insight/serpent-no-swiping-new-backdoor-targets-french-entities-unique-attack-chain
+https://www.microsoft.com/en-us/security/blog/2024/07/29/ransomware-operators-exploit-esxi-hypervisor-vulnerability-for-mass-encryption/
+https://www.elastic.co/guide/en/security/current/group-policy-abuse-for-privilege-addition.html#_setup_275
+https://www.cve.org/CVERecord?id=CVE-2024-1709
+https://www.virustotal.com/gui/file/c9f9f193409217f73cc976ad078c6f8bf65d3aabcf5fad3e5a47536d47aa6761
+https://strontic.github.io/xcyclopedia/library/dialer.exe-0B69655F912619756C704A0BF716B61F.html
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#azure-ad-threat-intelligence-user
