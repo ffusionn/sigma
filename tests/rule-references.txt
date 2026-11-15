@@ -3957,3 +3957,13 @@ https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/dsrm-
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/enable-psremoting?view=powershell-7.2
 https://bazaar.abuse.ch/sample/8c75f8e94486f5bbf461505823f5779f328c5b37f1387c18791e0c21f3fdd576/
 https://web.archive.org/web/20210512154016/https://github.com/AlsidOfficial/WSUSpendu/blob/master/WSUSpendu.ps1
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#anomalous-token
+https://github.com/redcanaryco/atomic-red-team/blob/5f866ca4517e837c4ea576e7309d0891e78080a8/atomics/T1040/T1040.md#atomic-test-16---powershell-network-sniffing
+https://www.assetnote.io/resources/research/citrix-bleed-leaking-session-tokens-with-cve-2023-4966
+http://www.hexacorn.com/blog/2016/03/10/beyond-good-ol-run-key-part-36/
+https://tria.ge/231212-r1bpgaefar/behavioral2
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#azure-ad-threat-intelligence-sign-in
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#service-principal-assigned-to-a-role
+https://globetech.biz/index.php/2023/05/19/evading-edr-by-dll-sideloading-in-csharp/
+https://www.loobins.io/binaries/launchctl/
+https://www.virustotal.com/gui/file/6bb4cdbaef03b732a93559a58173e7f16b29bfb159a1065fae9185000ff23b4b
